@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in building projects using Microsoft .Net technologies.
 - 🌱 I’m currently learning next generation technologies like Cloud computing (MS Azure & AWS), Kubernetes, Dockers, Machine learning and Blockchain. 
-- 💞️ I’m looking to collaborate on building cognitive solutions using Microsoft .Net technologies & Azure cloud.
+- 💞️ I’m looking to collaborate on building cognitive solutions.
 
 <p>
 

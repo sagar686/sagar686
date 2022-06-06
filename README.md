@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!---- 
-- 👋 Hi, I am Software Sagar Sangvekar
+Hi, I am Software Sagar Sangvekar
 --->
 
 - 👀 I have strong experience in building projects using Microsoft .Net technologies.

@@ -4,7 +4,7 @@ Hi, I am Software Sagar Sangvekar
 --->
 
 - 👀 I have strong experience in building projects using Microsoft .Net technologies.
-- 🌱 I’m currently learning next generation technologies like Cloud computing (MS Azure & AWS), Kubernetes, Dockers, Machine learning and Blockchain. 
+- 🌱 I’m currently learning next generation technologies like GEN AI, Cloud computing (MS Azure & AWS), Kubernetes, Dockers, Machine learning and Blockchain. 
 - 💞️ I’m looking to collaborate on building cognitive solutions.
 
 <p>
